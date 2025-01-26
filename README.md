@@ -1,9 +1,17 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # FlightRadar
+This project is a Flight Radar application developed to display and track flight data. It allows users to monitor aircraft movements in real time, access detailed flight information, and follow flight routes.
+# Technologies and LibrariesUsed
+- react
+- react-redux
+- react-router-dom
+- @splidejs/react-splide
+- @reduxjs/toolkit
+- axios
+- leaflet
+- react-leaflet
+- leaflet-rotatedmarker
+- react-paginate
+- bootstrap
+- rapidapi
+# Preview
+![FlightRadar-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ad57c58-9d9a-4669-8456-0a3950012e97)
